@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\tipodehabitacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\tipodehabitacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\mueblescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\mueblescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\habitacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\habitacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\controllers\\abonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\abonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\isabe\\downloads\\super-duper-enigma-main\\glamping_addventure3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AgIAALIAAAAAODMzMzMbwMwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:07:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:02:10.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:02:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecuperacionController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:01:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAJEBAAAA8GVmZmbWvzUBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:59:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:02:17.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipodeHabitacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\TipodeHabitacionsController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\TipodeHabitacionsController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\TipodeHabitacionsController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\TipodeHabitacionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:02:24.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:42:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PermisosController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\PermisosController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\PermisosController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\PermisosController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\PermisosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:01:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaquetesController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\PaquetesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\PaquetesController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\PaquetesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\PaquetesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:01:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MueblesController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\MueblesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\MueblesController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\MueblesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\MueblesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:01:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:01:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HabitacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\HabitacionsController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\HabitacionsController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\HabitacionsController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\HabitacionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:01:04.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:00:54.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbonoesController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:00:24.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:00:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAABMAAABANTMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:59:27.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAADEAAAAAlpmZmZkNwFwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:44:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAACABAAAAAAAAAAAAwDYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T11:42:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\appsettings.json",
+              "RelativeDocumentMoniker": "glamping_addventure3\\appsettings.json",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\super-duper-enigma-main\\glamping_addventure3\\appsettings.json",
+              "RelativeToolTip": "glamping_addventure3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T11:33:59.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
